@@ -64,6 +64,15 @@ Here are some ideas to get you started:
 * MySQL
 
 </td>
+
+<td valign="top" width="33%">
+ ### Tools
+
+ *Git
+ *VS Code
+ *Jupyter Notebook
+
+ </td>
 </tr>
 </table>
 
