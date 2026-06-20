@@ -1,19 +1,9 @@
 ## Hi, I'm Perala Akshaya👋
+💻 Computer science student
+🎓 Software engineer
+📊Aspiring Data analytis
+🎯Full stack developer
 
-<!--
-**Akshaya-dev02/Akshaya-dev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 💫 About Me:
 🎓 B.Tech Computer Science & Engineering Student with a strong interest in software development and emerging technologies.<br>💡 Passionate about problem-solving, innovation, and building real-world projects.<br>🚀 Continuously learning and exploring new technologies, frameworks, and development tools.<br>📊 Skilled in analytical thinking, logical reasoning, and data-driven decision-making.<br>🤝 Eager to collaborate on projects and contribute to open-source and community-driven initiatives.<br>🔍 Committed to gaining hands-on experience through internships, projects, and practical learning.<br>🌱 Focused on improving technical expertise, coding skills, and software engineering practices.<br>🎯 Seeking opportunities to apply knowledge, solve challenging problems, and create impactful solutions.
@@ -66,11 +56,11 @@ Here are some ideas to get you started:
 </td>
 
 <td valign="top" width="33%">
- ### Tools
 
- *Git
- *VS Code
- *Jupyter Notebook
+### Tools 
+* Git
+* VS code
+* Jupeter notebook
 
  </td>
 </tr>
@@ -92,6 +82,9 @@ akshayaperala71@gmail.com
 💻 GitHub
 https://github.com/Akshaya-dev02
 
+---
+
+✨ Thanks for having your time on my profile!!!
 
 
 
