@@ -27,7 +27,7 @@
 ### Programming Languages
 
 * Python
-* Java
+* C
 * JavaScript
 * SQL
 
@@ -54,15 +54,38 @@
 * MySQL
 
 </td>
+<td valign="top" width="33%">
+ 
+### Data Analytics
+
+* Pandas
+* NumPy
+* Data Cleaning
+* Data Visualization
+
+</td>
+
+<td valign="top" width="40%">
+
+### Machine Learning
+
+* Scikit-learn
+* Model Training
+* Feature Engineering
+* Basic ML Algorithms
+
+</td>
 
 <td valign="top" width="33%">
 
-### Tools 
-* Git
-* VS code
-* Jupeter notebook
+### Tools
 
- </td>
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
+
+</td>
 </tr>
 </table>
 
